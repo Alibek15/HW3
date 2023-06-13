@@ -30,6 +30,7 @@ namespace ConsoleApp18
             Console.WriteLine();
             Console.WriteLine(Car.carForeign);
             Console.ReadKey();
+             System.Environment.Exit(1);
         }
     }
 }
